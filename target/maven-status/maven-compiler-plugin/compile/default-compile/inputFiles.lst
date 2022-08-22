@@ -1,0 +1,12 @@
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/DownloadException.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/Main.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/utils/DownloadFileInfoFetcher.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/SimpleParallelDownloader.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/ParallelDownloadFileTask.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/Downloader.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/DownloadFileTask.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/utils/DownloadFileInfo.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/DownloaderFactory.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/utils/DownloadingThread.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/SerialDownloader.java
+/home/aqua/Programs/eclipse-workscape/parallel-downloader/src/main/java/DownloadOptions.java

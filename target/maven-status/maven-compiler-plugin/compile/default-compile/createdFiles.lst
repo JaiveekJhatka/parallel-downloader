@@ -1,0 +1,12 @@
+DownloadFileTask.class
+Main.class
+DownloadOptions.class
+SerialDownloader.class
+utils/DownloadFileInfo.class
+SimpleParallelDownloader.class
+utils/DownloadFileInfoFetcher.class
+Downloader.class
+utils/DownloadingThread.class
+ParallelDownloadFileTask.class
+DownloadException.class
+DownloaderFactory.class
